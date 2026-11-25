@@ -1,0 +1,9 @@
+streamlit
+pypdf
+python-docx
+scikit-learn
+pandas
+plotly
+reportlab
+# Optional: install sentence-transformers for deep neural embedding matching
+# sentence-transformers
